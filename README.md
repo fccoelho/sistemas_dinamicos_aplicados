@@ -6,7 +6,7 @@ Material do Curso de Sistemas dinâmicos aplicados
 
 1. [Sagemath](https://sagemath.org)
 1. [vfgen](https://warrenweckesser.github.io/vfgen/)
-
+1. [PyDSTool](https://pydstool.github.io/PyDSTool/FrontPage.html)
 
 ## Bibliografia
 1. Stuart A.M., Humphries A. R. - Dynamical Systems and Numerical Analysis-Cambridge University Press (1998 )
