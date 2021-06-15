@@ -11,3 +11,4 @@ Material do Curso de Sistemas dinâmicos aplicados
 ## Bibliografia
 1. Stuart A.M., Humphries A. R. - Dynamical Systems and Numerical Analysis-Cambridge University Press (1998 )
 1. Steven Strogatz. Nonlinear Dynamics And Chaos With Applications To Physics, Biology, Chemistry And Engineering (1994)
+2. Stephen Lynch - [Dynamical Systems with applications using Python](https://github.com/springer-math/dynamical-systems-with-applications-using-python) (2018)
